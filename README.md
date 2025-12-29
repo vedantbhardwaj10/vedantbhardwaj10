@@ -1,3 +1,5 @@
+<img src="banner.gif" />
+
 <h2 align="center">Hi, I'm Vedant Bhardwaj 👋</h2>
 
 ---
