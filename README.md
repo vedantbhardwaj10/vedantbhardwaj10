@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="banner.gif" width="30%" />
-  <img src="b3.gif" width="30%" />
-  <img src="b2.gif" width="30%" />
-</p>
-
-
 <h2 align="center"> Hi, I'm Vedant Bhardwaj 👋</h2>
 
 ---
