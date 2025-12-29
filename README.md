@@ -1,4 +1,6 @@
-## Hi, I'm Vedant Bhardwaj
+<div align="center">
+
+## Hi, I'm Vedant Bhardwaj 
 
 ---
 
