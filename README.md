@@ -5,7 +5,7 @@
 </p>
 
 
-<h2 align="center"> # Hi, I'm Vedant Bhardwaj 👋</h2>
+<h2 align="center"> Hi, I'm Vedant Bhardwaj 👋</h2>
 
 ---
 
