@@ -16,8 +16,8 @@
 - **Excel** – Pivot Tables, reporting, data cleaning  
 - **SQL (MySQL)** – data extraction and analysis  
 - **Power BI** – dashboards and visual reporting  
-- **Python (Basic)** – Pandas, NumPy, Matplotlib, Seaborn  
-- **Statistics (Basic)** – data interpretation  
+- **Python** – Pandas, NumPy, Matplotlib, Seaborn  
+- **Statistics** – data interpretation  
 
 ---
 
