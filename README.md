@@ -25,7 +25,7 @@
 
 - SQL practice queries  
 - Python notebooks for data analysis  
-- Small, practical analytics projects  
+- Practical analytics projects  
 - Learning experiments as I grow as a Data Analyst  
 
 ---
