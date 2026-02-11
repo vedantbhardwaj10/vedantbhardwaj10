@@ -32,7 +32,7 @@
 
 ### 🎯 Looking For
 
-- **Data Analyst / Data Analyst Intern** opportunities  
+- **Junior Data Analyst/ Associate Data Analyst/ Data Analyst Internship/ Data Analyst /MIS Executive** opportunities  
 - Roles where I can work with real datasets, learn from experienced teams, and contribute through clear reporting and insights  
 
 ---
